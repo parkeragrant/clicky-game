@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "image": "./images/chevy.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "image": "./images/Audi.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Dodge",
+        "image": "./images/Dodge.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "ford",
+        "image": "./images/ford.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Jag",
+        "image": "./images/Jag.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "jeep",
+        "image": "./images/jeep.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "KIA",
+        "image": "./images/KIA.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "LandRover",
+        "image": "./images/LandRover.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "mazda",
+        "image": "./images/mazda.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "mer",
+        "image": "./images/mer.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Nissan",
+        "image": "./images/Nissan.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "S",
+        "image": "./images/s.png",
+        "clicked": false
+    }
+
+]
