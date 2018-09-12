@@ -1,13 +1,13 @@
 import React from 'react';
 
-const CarImgs = (props) => {
+const DogImgs = (props) => {
   return (
     <div className="col-sm-3">
       <img onClick={() => {
         props.handleClick(props.id)
-      }} style={props.carStyles} src={props.carImg}/>
+      }} style={props.dogStyles} src={props.dogImg} />
     </div>
   );
 };
 
-export default CarImgs;
+export default DogImgs;

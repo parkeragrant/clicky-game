@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Golden",
+        "image": "./images/golden.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Basset",
+        "image": "./images/basset.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Lab",
+        "image": "./images/lab.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Chihuahua",
+        "image": "./images/chihuahua.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Beagle",
+        "image": "./images/beagle.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Poodle",
+        "image": "./images/poodle.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Boxer",
+        "image": "./images/boxer.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "GreatDane",
+        "image": "./images/greatdane.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Husky",
+        "image": "./images/husky.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Dobermann",
+        "image": "./images/dobermann.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Bulldog",
+        "image": "./images/bulldog.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Mutt",
+        "image": "./images/mutt.png",
+        "clicked": false
+    }
+]
